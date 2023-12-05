@@ -3,7 +3,7 @@ import './index.css'
 const Header = () => (
   <nav className="nav-header">
     <div className="nav-content">
-      <p className="website-logo">PARDHU</p>
+      <p className="website-logo">PS</p>
       <ul className="nav-menu">
         <li>
           <img
